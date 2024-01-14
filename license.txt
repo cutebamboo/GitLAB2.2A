@@ -3,7 +3,5 @@ Today is Wednesday 10 January 2023.
 This is the demonstration for GIT learning.
 Thank you.
 
-I want to go home. so tired now!!!
-
-Teacher says: I donot agree  to go home. 
-
+I modify this file to demonstrate the process of checking out a repository. 
+This version is created on 14 January 2024. 
