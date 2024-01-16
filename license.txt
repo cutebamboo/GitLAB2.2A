@@ -1,10 +1,7 @@
 Hello World!!!
 Today is Wednesday 10 January 2023.
 This is the demonstration for GIT learning.
-
-Test to restore a file from the oldest version. 
+Thank you.
 
 I modify this file to demonstrate the process of checking out a repository. 
-This version is created on 14 January 2024.
-
-Thank you 
+This version is created on 14 January 2024. 
