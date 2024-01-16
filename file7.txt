@@ -1,0 +1,3 @@
+Hello world.
+This is File7.txt
+I was born to examinate the git fetch. 
